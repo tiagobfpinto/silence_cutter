@@ -1,0 +1,2 @@
+# requirements.txt
+subprocess.run  # Built into Python 3.x, no need to install
