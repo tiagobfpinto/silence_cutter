@@ -40,8 +40,8 @@ A Python script that uses FFmpeg to automatically detect and remove silent porti
 
 2. Command Line
 Run the script directly from the command line:
-```bash
-python silence_remover.py input.mp4 output.mp4 -t -25 -d 0.5
+   ```bash
+   python silence_remover.py input.mp4 output.mp4 -t -25 -d 0.5
 
 ## Arguments
 
@@ -72,4 +72,6 @@ python silence_remover.py input.mp4 output.mp4 -t -25 -d 0.5
 
 ```bash
 python silence_remover.py input.mp4 output.mp4 -t -25 -d 0.5
+
+
 
